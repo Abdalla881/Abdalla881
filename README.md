@@ -1,67 +1,73 @@
-<h2 align="left">Abdalla Osama — Junior Back-End Developer — Egypt</h2>
+<h1 align="center">Hi, I'm Abdalla Osama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdalla881&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalla881&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQF-xBxHbOB-YQ/profile-displayphoto-crop_800_800/B4DZfD8PJaGkAI-/0/1751339040832?e=1763596800&v=beta&t=fLI8xq2nDNf8gMODA3SbORCL7n0g42-rT3eH0wFz_jM"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="abdallaforjob@gmail.com " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always+learning+new+things&center=true&width=500&height=50">
   </a>
-  <a href="https://www.linkedin.com/in/abdalla-osama-430056234/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+</p>
 
-###
+<hr/>
 
-<br clear="both">
+<h4 align="center">
+I am a Junior Back-End Developer from Egypt.<br/>
+I enjoy building RESTful APIs, designing system logic, and solving real problems with code.<br/>
+I'm enthusiastic, curious, and always hungry to learn new technologies and improve my skills.<br/>
+I love connecting with people, exchanging ideas, and spreading positive energy in the tech community.<br/><br/>
+<strong>Currently seeking backend opportunities — Remote / Ismailia</strong>
+</h4>
 
-<img src="https://raw.githubusercontent.com/Abdalla881/Abdalla881/output/snake.svg" alt="Snake animation" />
+<br/>
 
-###
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdalla881&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views" /> </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdalla881.Abdalla881&"  />
-</div>
 
-###
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalla881&theme=algolia" alt="streak stats"  /></p>
+
+
+## 🛠️ My Skills
+
+### 👉 Backend / Frameworks
+<p align="left"> 
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-black.svg?style=flat&logo=express&logoColor=white"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS%20-%23E0234E.svg?logo=nestjs&logoColor=white"/>
+</p>
+
+### 👉 Languages / Main Tech
+<p align="left"> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=61DAFB"/>
+</p>
+
+### 👉 Databases & DevOps
+<p align="left"> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?logo=docker&logoColor=white"/>
+</p>
+
+<br/>
+
+## 📊 Github Stats (Expand to View) 
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img alt="Abdalla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdalla881&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalla881&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
+  </p>
+</details>
+
+<br/>
+
+## 🙋‍♂️ Let's Connect
+<p align="center">
+	<a href="mailto:abdallaforjob@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/abdalla-osama-430056234/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/Abdalla881"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+</p>
+
+<hr/>
+
+* Last Edited on: 2025
