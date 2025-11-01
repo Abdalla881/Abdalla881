@@ -21,8 +21,7 @@ I love connecting with people, exchanging ideas, and spreading positive energy i
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdalla881&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views" /> </p>
 
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalla881&theme=algolia" alt="streak stats"  /></p>
+
 
 
 ## 🛠️ My Skills
