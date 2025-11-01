@@ -31,6 +31,7 @@ I love connecting with people, exchanging ideas, and spreading positive energy i
 <p align="left"> 
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-black.svg?style=flat&logo=express&logoColor=white"/>
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS%20-%23E0234E.svg?logo=nestjs&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
 </p>
 
 ### 👉 Languages / Main Tech
@@ -43,10 +44,18 @@ I love connecting with people, exchanging ideas, and spreading positive energy i
 ### 👉 Databases & DevOps
 <p align="left"> 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
 </p>
 
-<br/>
+### 👉 Tools / Skills
+<p align="left">
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20APIs-black?logo=swagger&logoColor=green"/>
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=jsonwebtokens"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+</p>
+
 
 ## 📊 Github Stats (Expand to View) 
 <details> 
